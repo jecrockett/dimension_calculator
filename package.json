@@ -1,0 +1,11 @@
+{
+  "name": "dimension_calculator",
+  "version": "1.0.0",
+  "description": "Calculate proportional dimesions for resizing objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Crockett and Shannon Paige",
+  "license": "ISC"
+}
