@@ -9,7 +9,7 @@ Supports all object types that have width and height properties.
 ## Install
 
 ```
-$ npm install --save dimension-calculator
+$ npm install --save dimension_calculator
 ```
 
 
