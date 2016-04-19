@@ -1,4 +1,4 @@
-# dimension-calculator
+# dimension_calculator
 
 > If you want to resize an object and know the height or width you would like,
 the dimension calculator will return the other dimension needed to maintain the
@@ -28,7 +28,7 @@ object and return the other dimension size (in this case height), needed to main
 original height/width ratio.
 
 ```js
-const dimensionCalculator = require('dimension-calculator');
+const dimensionCalculator = require('dimension_calculator');
 
 // Calculate the dimension needed
 dimensionCalculator({ width: 40 }, { width: 100, height: 50 })
